@@ -17,15 +17,27 @@ List of Computer Vision Research Lab and Research Scientist
 - [Machine Vision Lab @ Seoul National University of Science and Technology -Byeongkeun Kang](https://visionlab.seoultech.ac.kr/index.do)
 - [Vision & AI lab @ Korea University - Jinkyu Kim](https://visionai.korea.ac.kr/)
 - [Kyung Hee Vision and Learning Laboratory @ Kyung Hee University - Jinwoo Choi](https://vll.khu.ac.kr/index.html)
+- [CVLAB (PI: Prof. Seungryong Kim) @ Kim Jaechul Graduate School of AI at KAIST](https://cvlab.kaist.ac.kr/home)
+- [CVML @ KAIST - Hyunjung Shim](https://sites.google.com/view/cvml-kaist/home?authuser=0)
+- [Vision and Learning Laboratory (VL) @ KAIST - Seunghoon Hong](https://vllab.kaist.ac.kr/index.php)
+- [Visual Computing Lab @ KAIST - Min H. Kim](https://vclab.kaist.ac.kr/index.html)
+- [Cognitive Learning for Vision and Robotics @ KAIST - Joseph J. Lim](https://www.clvrai.com/)
+- [SGVR Lab: Scalable Graphics, Vision, & Robotics Lab @ KAIST - Sung-Eui Yoon](https://sgvr.kaist.ac.kr/)
+- [SIIL @ KAIST - Junmo Kim](http://siit.kaist.ac.kr/)
+- [Visual Intelligence and Perception Laboratory @ KAIST - Jinsun Park](https://pnu-viplab.github.io/)
+- []()
 
 ## Germany
 - [Autonomous Vision](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/)
 
 
-# Scientist and Professors 
+# Professors 
 ## South Korea
 - [Minhyuk Sung (KAIST Visual AI Group) - Assistant Professor - School of Computing Graduate School of AI KAIST](https://mhsung.github.io/)
 
 ## Germany
 - [Andreas Geiger (Autonomous Vision Group) -  University of Tübingen](https://www.cvlibs.net/index.php)
 
+
+# Research Scientist 
+- [Kwanyong Park - Research Scientist @ ETRI](https://pkyong95.github.io/)
