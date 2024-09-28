@@ -23,7 +23,7 @@ List of Computer Vision Research Lab and Research Scientist
 
 
 # Scientist and Professors 
-# South Korea
+## South Korea
 - [Minhyuk Sung (KAIST Visual AI Group) - Assistant Professor - School of Computing Graduate School of AI KAIST](https://mhsung.github.io/)
 
 ## Germany
